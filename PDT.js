@@ -15,5 +15,7 @@ console.log(1.11* 2)
 console.log(1.2 /1.1)
 console.log(1.15-1.10)
 
-
+//booleans
+true
+false
 
